@@ -14,6 +14,7 @@
     "eslint-plugin-import": "^2.17.3"
   },
   "dependencies": {
+    "qs": "^6.7.0",
     "request": "^2.88.0"
   }
 }
