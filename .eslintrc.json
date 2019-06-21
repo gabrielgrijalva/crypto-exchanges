@@ -13,6 +13,13 @@
         "ecmaVersion": 2018
     },
     "rules": {
-        "object-shorthand": "off"
+        "object-shorthand": "off",
+        "max-len": [
+            "error",
+            {
+                "ignoreComments": true
+            }
+        ], 
+        "func-names": "off"
     }
 }
