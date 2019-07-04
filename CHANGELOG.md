@@ -1,6 +1,19 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.0.0] - 2019-07-04
+### Added
+- Created BITMEX WS API wrapper.
+- Created HUOBI DM WS API wrapper.
+
+### Changed
+- Modified the structure of modules for BITMEX and HUOBI DM.
+- Modified the importing interface of modules for BITMEX and HUOBI DM.
+
+### Pending
+- Create BINANCE WS API wrapper.
+- Create BITFLYER WS API wrapper.
+
 ## [1.0.2] - 2019-07-03
 ### Added
 - Created index.js file to export modules.
