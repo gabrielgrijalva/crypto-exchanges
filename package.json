@@ -1,12 +1,12 @@
 {
   "name": "crypto-exchanges",
   "version": "1.0.1",
-  "description": "",
+  "description": "Lightweight REST API wrappers for popular cryptocurrency exchanges.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Gabriel Grijalva Flores",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^5.16.0",
