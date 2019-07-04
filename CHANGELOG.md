@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.1.1] - 2019-07-04
+### Changed
+- Modified the importing and exporting interface of all modules.
+
 ## [2.1.0] - 2019-07-04
 ### Changed
 - Modified the importing and exporting interface of all modules.
