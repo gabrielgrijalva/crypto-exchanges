@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.0.1] - 2019-07-04
+### Added
+- New keywords to the package.json file.
+
+### Changed
+- Modified the package.json file description.
+
 ## [2.0.0] - 2019-07-04
 ### Added
 - Created BITMEX WS API wrapper.

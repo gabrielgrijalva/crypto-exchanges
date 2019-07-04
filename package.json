@@ -1,13 +1,15 @@
 {
   "name": "@gabrielgrijalva/crypto-exchanges",
-  "version": "2.0.0",
-  "description": "Lightweight REST API wrappers for popular cryptocurrency exchanges.",
+  "version": "2.0.1",
+  "description": "Lightweight REST and WS APIs wrappers for popular cryptocurrency exchanges.",
   "keywords": [
     "cryptocurrency",
     "exchanges",
     "trading",
     "API",
-    "REST"
+    "REST",
+    "WS",
+    "WebSocket"
   ],
   "main": "index.js",
   "scripts": {
