@@ -1,13 +1,28 @@
 {
   "name": "crypto-exchanges",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lightweight REST API wrappers for popular cryptocurrency exchanges.",
+  "keywords": [
+    "cryptocurrency",
+    "exchanges",
+    "trading",
+    "API",
+    "REST"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gabriel Grijalva Flores",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielgrijalva/crypto-exchanges"
+  },
+  "engines": {
+    "npm": "6.10.0",
+    "node": "v10.15.1"
+  },
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
