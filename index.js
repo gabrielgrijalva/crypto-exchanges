@@ -1,4 +1,6 @@
-exports.Binance = require('./lib/src/binance');
-exports.Bitflyer = require('./lib/src/bitflyer');
-exports.Bitmex = require('./lib/src/bitmex');
-exports.HuobiDM = require('./lib/src/huobi-dm');
+exports.BinanceRest = require('./lib/src/binance');
+exports.BitflyerRest = require('./lib/src/bitflyer');
+exports.BitmexWs = require('./lib/src/bitmex/ws');
+exports.BitmexRest = require('./lib/src/bitmex/rest');
+exports.HuobiDMWs = require('./lib/src/huobi-dm/ws');
+exports.HuobiDMRest = require('./lib/src/huobi-dm/rest');
