@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.1.3] - 2019-07-13
+### Changed
+- Changed error handling on HUOBI DM REST API. Errors were returned as a successfull responses. Now errors are thrown.
+
 ## [2.1.2] - 2019-07-12
 ### Changed
 - Corrected error on BITMEX websocket connection that happened when "diconnect" function was executed.
