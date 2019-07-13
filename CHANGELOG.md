@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.1.2] - 2019-07-12
+### Changed
+- Corrected error on BITMEX websocket connection that happened when "diconnect" function was executed.
+
 ## [2.1.1] - 2019-07-04
 ### Changed
 - Modified the importing and exporting interface of all modules.
