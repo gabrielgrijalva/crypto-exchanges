@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.1.5] - 2019-07-15
+### Added
+- Added new enpoint to BITMEX REST API to load candles history.
+
 ## [2.1.4] - 2019-07-13
 ### Changed
 - Added pending commits from previous version fix.
