@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.1.6] - 2019-07-23
+### Added
+- Created BITFLYER WS API wrapper.
+
+### Changed
+- Modified the structure of BITFLYER module.
+
 ## [2.1.5] - 2019-07-15
 ### Added
 - Added new enpoint to BITMEX REST API to load candles history.
