@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.1.7] - 2019-07-25
+### Added
+- Added new enpoint to BITFLYER REST API interface.
+
 ## [2.1.6] - 2019-07-23
 ### Added
 - Created BITFLYER WS API wrapper.
