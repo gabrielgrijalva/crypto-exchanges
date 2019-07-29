@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.1.8] - 2019-07-29
+### Added
+- Created 1FORGE REST API interface module.
+
 ## [2.1.7] - 2019-07-25
 ### Added
 - Added new enpoint to BITFLYER REST API interface.
