@@ -1,10 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [2.0.0] - 2019-08-15
+## [2.2.0] - 2019-08-15
 ### Changed
 - Corrected accumulation function error when executing multiple times "connect" function
-  from the same instance.
+  from the same instance. Correction made in BITFLYER, BITMEX and HUOBI DM exchanges APIs.
 
 ## [2.1.8] - 2019-07-29
 ### Added
