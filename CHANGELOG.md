@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.0.0] - 2019-08-15
+### Changed
+- Corrected accumulation function error when executing multiple times "connect" function
+  from the same instance.
+
 ## [2.1.8] - 2019-07-29
 ### Added
 - Created 1FORGE REST API interface module.
