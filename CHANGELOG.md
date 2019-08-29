@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.2.1] - 2019-08-29
+### Added
+- Added handler to bitmex REST API with a ratelimit threshold.
+
+### Changed
+- Changed makeRequest functionality to return the whole response object.
+
 ## [2.2.0] - 2019-08-15
 ### Changed
 - Corrected accumulation function error when executing multiple times "connect" function
