@@ -1,6 +1,6 @@
 {
   "name": "@gabrielgrijalva/crypto-exchanges",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Lightweight REST and WS APIs wrappers for popular cryptocurrency exchanges.",
   "keywords": [
     "cryptocurrency",
