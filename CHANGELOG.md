@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.2.2] - 2019-08-29
+### Changed
+- Corrected error from Huobi DM REST API, did not return corresponding body when an error occurred.
+
 ## [2.2.1] - 2019-08-29
 ### Added
 - Added handler to bitmex REST API with a ratelimit threshold.
