@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.3.0] - 2019-09-10
+### Added
+- Added OKEX REST API to the exchanges libraries.
+
 ## [2.2.2] - 2019-08-29
 ### Changed
 - Corrected error from Huobi DM REST API, did not return corresponding body when an error occurred.
