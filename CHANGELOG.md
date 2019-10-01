@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.4.1] - 2019-10-01
+### Added
+- Added Okex WS API to export module.
+
 ## [2.4.0] - 2019-09-30
 ### Added
 - Officially added OKEX REST API to the exchanges libraries and corrected existing errors.
