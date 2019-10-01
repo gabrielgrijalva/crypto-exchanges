@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.4.0] - 2019-09-30
+### Added
+- Officially added OKEX REST API to the exchanges libraries and corrected existing errors.
+
 ## [2.3.0] - 2019-09-10
 ### Added
 - Added OKEX REST API to the exchanges libraries.
