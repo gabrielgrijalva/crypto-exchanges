@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.4.3] - 2019-10-10
+### Changed
+- Changed api url endpoint for one forge module.
+
 ## [2.4.2] - 2019-10-01
 ### Changed
 - Corrected Okex WS API path in export main module.
