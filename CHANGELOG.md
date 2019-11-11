@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.4.4] - 2019-11-11
+### Changed
+- Changed public requests to authenticated requests in bitmex api to increase api rate limit.
+
 ## [2.4.3] - 2019-10-10
 ### Changed
 - Changed api url endpoint for one forge module.
