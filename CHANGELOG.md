@@ -1,6 +1,14 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.5.0] - 2019-11-27
+### Added 
+- Added remove event functions from bitmex websocket client.
+
+### Changed
+- When adding new functions to websocket events in bitmex websocket client, functions are also added
+  to the connected websocket client.
+
 ## [2.4.4] - 2019-11-11
 ### Changed
 - Changed public requests to authenticated requests in bitmex api to increase api rate limit.
