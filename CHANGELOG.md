@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.6.0] - 2020-01-07
+### Added 
+- Added operational functions to websocket client api.
+- Added authentication functionality to websocket client api.
+
 ## [2.5.0] - 2019-11-27
 ### Added 
 - Added remove event functions from bitmex websocket client.
