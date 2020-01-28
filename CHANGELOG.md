@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.7.0] - 2020-01-27
+### Added 
+- Changed bitflyer websocket api to optionally connect with authentication.
+
 ## [2.6.0] - 2020-01-07
 ### Added 
 - Added operational functions to websocket client api.
