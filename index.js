@@ -1,5 +1,6 @@
 exports.BinanceWs = require('./lib/src/binance/ws/binance-ws');
 exports.BinanceRest = require('./lib/src/binance/rest/binance-rest');
+exports.BitfinexWs = require('./lib/src/bitfinex/ws/bitfinex-ws');
 exports.BitflyerWs = require('./lib/src/bitflyer/ws/bitflyer-ws');
 exports.BitflyerRest = require('./lib/src/bitflyer/rest/bitflyer-rest');
 exports.BitmexWs = require('./lib/src/bitmex/ws/bitmex-ws');
