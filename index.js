@@ -8,6 +8,7 @@ exports.BitmexRest = require('./lib/src/bitmex/rest/bitmex-rest');
 exports.CoinbaseWs = require('./lib/src/coinbase/ws/coinbase-ws');
 exports.HuobiDMWs = require('./lib/src/huobi-dm/ws/huobi-dm-ws');
 exports.HuobiDMRest = require('./lib/src/huobi-dm/rest/huobi-dm-rest');
+exports.KrakeWs = require('./lib/src/kraken/ws/kraken-ws');
 exports.OkexRest = require('./lib/src/okex/rest/okex-rest');
 exports.OkexWs = require('./lib/src/okex/ws/okex-ws');
 exports.OneForge = require('./lib/src/one-forge/rest/one-forge-rest');
