@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.9.0] - 2020-01-30
+### Changed
+- Implemented binance websocket api.
+- Corrected error in bitflyer websocket api comment.
+
 ## [2.8.0] - 2020-01-27
 ### Changed
 - Corrected implementation errors in bitflyer websocket api.
