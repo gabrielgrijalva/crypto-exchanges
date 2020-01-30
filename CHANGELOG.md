@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.1.1] - 2020-01-30
+### Changed
+- Corrected typo on exportable module.
+
 ## [3.1.0] - 2020-01-30
 ### Changed
 - Added kraken public websocket api to exportable module.
