@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.0.0] - 2020-01-30
+### Changed
+- Implemented kraken public websocket api.
+- Implemented bitstamp public websocket api.
+- Implemented coinbase public websocket api.
+- Implemented bitfinex public websocket api.
+
 ## [2.9.0] - 2020-01-30
 ### Changed
 - Implemented binance websocket api.
