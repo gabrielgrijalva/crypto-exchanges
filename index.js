@@ -9,6 +9,7 @@ exports.BitstampWs = require('./lib/src/bitstamp/ws/bitstamp-ws');
 exports.CoinbaseWs = require('./lib/src/coinbase/ws/coinbase-ws');
 exports.HuobiDMWs = require('./lib/src/huobi-dm/ws/huobi-dm-ws');
 exports.HuobiDMRest = require('./lib/src/huobi-dm/rest/huobi-dm-rest');
+exports.HuobiDMSwapRest = require('./lib/src/huobi-dm-swap/rest/huobi-dm-swap-rest');
 exports.KrakenWs = require('./lib/src/kraken/ws/kraken-ws');
 exports.OkexRest = require('./lib/src/okex/rest/okex-rest');
 exports.OkexWs = require('./lib/src/okex/ws/okex-ws');
