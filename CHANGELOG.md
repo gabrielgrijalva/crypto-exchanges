@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.3.0] - 2020-04-17
+### Added
+- Added huobi dm swap rest and websocket modules.
+
 ## [3.2.0] - 2020-01-30
 ### Added
 - Added bitstamp to exportable module.

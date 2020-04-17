@@ -1,6 +1,6 @@
 {
   "name": "@gabrielgrijalva/crypto-exchanges",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "description": "Lightweight REST and WS APIs wrappers for popular cryptocurrency exchanges.",
   "keywords": [
     "cryptocurrency",
@@ -31,9 +31,10 @@
     "eslint-plugin-import": "^2.17.3"
   },
   "dependencies": {
+    "@sendgrid/mail": "^6.5.4",
     "moment": "^2.24.0",
     "qs": "^6.7.0",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "socket.io": "^2.2.0",
     "socket.io-client": "^2.2.0",
     "uuid": "^3.3.2",
