@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.4.1] - 2020-04-28
+### Added
+- Added binance futures rest and websocket modules to exportable index.
+
 ## [3.4.0] - 2020-04-28
 ### Added
 - Added binance futures rest and websocket modules.
