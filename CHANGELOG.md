@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.4.0] - 2020-04-28
+### Added
+- Added binance futures rest and websocket modules.
+
 ## [3.3.0] - 2020-04-17
 ### Added
 - Added huobi dm swap rest and websocket modules.
