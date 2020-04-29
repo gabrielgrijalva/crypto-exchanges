@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.5.0] - 2020-04-29
+### Added
+- Changed implementation for binance spot and futures websocket 
+  connection to private account push messages.
+
 ## [3.4.1] - 2020-04-28
 ### Added
 - Added binance futures rest and websocket modules to exportable index.
