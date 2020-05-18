@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.6.0] - 2020-05-18
+### Changed
+- Corrected error in binance ws when making user private connections.
+
 ## [3.5.0] - 2020-04-29
 ### Added
 - Changed implementation for binance spot and futures websocket 
