@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.7.0] - 2020-06-26
+### Changed
+- Changed bitmex rest api request to work with out api keys for public endpoints.
+
 ## [3.6.0] - 2020-05-18
 ### Changed
 - Corrected error in binance ws when making user private connections.
