@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.8.0] - 2020-06-26
+### Changed
+- Added endpoint to huobi dm swap api.
+
 ## [3.7.0] - 2020-06-26
 ### Changed
 - Changed bitmex rest api request to work with out api keys for public endpoints.
