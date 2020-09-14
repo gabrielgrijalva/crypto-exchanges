@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [4.0.0] - 2020-09-14
+### Changed
+- Added binance coin futures api wrapper.
+
 ## [3.9.0] - 2020-09-14
 ### Changed
 - Added endpoint to huobi dm swap api.
