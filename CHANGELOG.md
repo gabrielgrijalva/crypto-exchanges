@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [4.2.0] - 2020-09-18
+### Changed
+- Corrected error in binance coin futures websocket.
+
 ## [4.1.0] - 2020-09-14
 ### Changed
 - Added binance coin futures api to main module exports.
