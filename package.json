@@ -1,6 +1,6 @@
 {
   "name": "@gabrielgrijalva/crypto-exchanges",
-  "version": "4.2.0",
+  "version": "4.3.0",
   "description": "Lightweight REST and WS APIs wrappers for popular cryptocurrency exchanges.",
   "keywords": [
     "cryptocurrency",
@@ -37,6 +37,7 @@
     "request": "^2.88.2",
     "socket.io": "^2.2.0",
     "socket.io-client": "^2.2.0",
+    "utf8": "^3.0.0",
     "uuid": "^3.3.2",
     "ws": "^7.0.1"
   }

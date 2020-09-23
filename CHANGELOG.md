@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [4.3.0] - 2020-09-23
+### Added
+- Implemented kraken futures rest and websocket apis.
+
 ## [4.2.0] - 2020-09-18
 ### Changed
 - Corrected error in binance coin futures websocket.
