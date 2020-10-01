@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [4.6.0] - 2020-10-01
+### Changed
+- Added extra endpoints to okex rest api.
+
 ## [4.5.0] - 2020-09-24
 ### Changed
 - Corrected error in kraken futures.
