@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [5.0.0] - 2020-10-02
+### Added
+- Added bybit api to index export module.
+
 ## [4.9.0] - 2020-10-02
 ### Changed
 - Corrected error in bybit websocket api.
