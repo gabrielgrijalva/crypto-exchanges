@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [4..0] - 2020-10-02
+### Added
+- Implemented Bybit rest and websocket apis.
+
 ## [4.7.0] - 2020-10-02
 ### Changed
 - Corrected error in kraken websocket api.
