@@ -1,7 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [4..0] - 2020-10-02
+## [4.9.0] - 2020-10-02
+### Changed
+- Corrected error in bybit websocket api.
+
+## [4.8.0] - 2020-10-02
 ### Added
 - Implemented Bybit rest and websocket apis.
 
