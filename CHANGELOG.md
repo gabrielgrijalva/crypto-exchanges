@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [5.2.0] - 2020-10-13
+### Changed
+- Corrected error in okex websocket api.
+
 ## [5.1.0] - 2020-10-02
 ### Changed
 - Corrected error in bybit websocket api.
