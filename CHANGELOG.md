@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [5.3.0] - 2020-10-14
+### Changed
+- Added new enpoint to okex rest api.
+
 ## [5.2.0] - 2020-10-13
 ### Changed
 - Corrected error in okex websocket api.
