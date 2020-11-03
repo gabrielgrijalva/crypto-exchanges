@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [5.5.0] - 2020-11-03
+### Changed
+- Corrected enpoint to huobi rest api.
+
 ## [5.4.0] - 2020-10-14
 ### Changed
 - Added new enpoint to okex rest api.
