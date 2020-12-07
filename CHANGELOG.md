@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [5.6.0] - 2020-12-07
+### Changed
+- Updated bybit endpoints.
+
 ## [5.5.0] - 2020-11-03
 ### Changed
 - Corrected enpoint to huobi rest api.
