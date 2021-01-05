@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [5.7.0] - 2021-01-04
+### Changed
+- Added new function to bitflyer rest api.
+
 ## [5.6.0] - 2020-12-07
 ### Changed
 - Updated bybit endpoints.
