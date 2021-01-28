@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [5.8.0] - 2021-01-28
+### Changed
+- Corrected error in kraken api rest endpoint.
+
 ## [5.7.0] - 2021-01-04
 ### Changed
 - Added new function to bitflyer rest api.
