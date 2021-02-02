@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [6.0.0] - 2021-02-02
+### Changed
+- Changed implementation for generating nonces in futures kraken api.
+
 ## [5.9.0] - 2021-02-02
 ### Changed
 - Changed implementation for generating nonces in futures kraken api.
