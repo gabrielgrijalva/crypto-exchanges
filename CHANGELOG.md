@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [5.9.0] - 2021-02-02
+### Changed
+- Changed implementation for generating nonces in futures kraken api.
+
 ## [5.8.0] - 2021-01-28
 ### Changed
 - Corrected error in kraken api rest endpoint.
