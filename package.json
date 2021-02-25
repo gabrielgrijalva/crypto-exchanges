@@ -21,10 +21,6 @@
     "type": "git",
     "url": "https://github.com/gabrielgrijalva/crypto-exchanges"
   },
-  "engines": {
-    "npm": "6.10.0",
-    "node": "v10.15.1"
-  },
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
