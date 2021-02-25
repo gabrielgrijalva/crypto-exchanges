@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [6.4.0] - 2021-02-25
+### Changed
+- Changed package.json file.
+
 ## [6.3.0] - 2021-02-25
 ### Changed
 - Corrected error in kraken nonce.
