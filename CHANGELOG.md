@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [6.2.0] - 2021-02-24
+### Changed
+- Corrected error in kraken nonce.
+
 ## [6.1.0] - 2021-02-24
 ### Changed
 - Corrected error in futures kraken api.
