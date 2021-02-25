@@ -1,6 +1,6 @@
 {
   "name": "@gabrielgrijalva/crypto-exchanges",
-  "version": "6.3.0",
+  "version": "6.4.0",
   "description": "Lightweight REST and WS APIs wrappers for popular cryptocurrency exchanges.",
   "keywords": [
     "cryptocurrency",
@@ -20,10 +20,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/gabrielgrijalva/crypto-exchanges"
-  },
-  "engines": {
-    "npm": "6.10.0",
-    "node": "v10.15.1"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
