@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [6.4.0] - 2021-03-06
+### Changed
+- Removed filter from bitmex rest api.
+
 ## [6.4.0] - 2021-02-25
 ### Changed
 - Changed package.json file.
