@@ -12,6 +12,7 @@ exports.BybitRest = require('./lib/src/bybit/rest/bybit-rest');
 exports.BitmexWs = require('./lib/src/bitmex/ws/bitmex-ws');
 exports.BitmexRest = require('./lib/src/bitmex/rest/bitmex-rest');
 exports.BitstampWs = require('./lib/src/bitstamp/ws/bitstamp-ws');
+exports.BitstampRest = require('./lib/src/bitstamp/rest/bitstamp-rest');
 exports.CoinbaseWs = require('./lib/src/coinbase/ws/coinbase-ws');
 exports.HuobiDMWs = require('./lib/src/huobi-dm/ws/huobi-dm-ws');
 exports.HuobiDMRest = require('./lib/src/huobi-dm/rest/huobi-dm-rest');
