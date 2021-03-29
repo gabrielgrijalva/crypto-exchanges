@@ -1,7 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [6.4.0] - 2021-03-06
+## [6.6.0] - 2021-03-29
+### Changed
+- Added endpoint to get OHLC of bitstamp.
+
+## [6.6.0] - 2021-03-06
 ### Changed
 - Removed filter from bitmex rest api.
 
