@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [6.8.0] - 2021-03-30
+### Changed
+- Changed project version.
+
 ## [6.7.0] - 2021-03-29
 ### Changed
 - Added bitstamp to main module.
