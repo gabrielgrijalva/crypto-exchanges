@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [6.9.0] - 2021-05-05
+### Changed
+- Implemented public index websocket url.
+
 ## [6.8.0] - 2021-03-30
 ### Changed
 - Changed project version.
