@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [7.0.0] - 2021-05-06
+### Changed
+- Corrected error in huobi-dm-swap websocket public index endpoint.
+
 ## [6.9.0] - 2021-05-05
 ### Changed
 - Implemented public index websocket url.
