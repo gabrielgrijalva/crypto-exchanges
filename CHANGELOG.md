@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [7.1.0] - 2021-05-27
+### Changed
+- Changed to a better performance enpoint for kraken-futures.
+
 ## [7.0.0] - 2021-05-06
 ### Changed
 - Corrected error in huobi-dm-swap websocket public index endpoint.
