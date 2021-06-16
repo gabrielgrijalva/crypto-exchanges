@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [7.3.0] - 2021-06-116
+### Changed
+- Corrected FTX websocket api.
+- Implemented Deribit rest en websocket apis.
+
 ## [7.2.0] - 2021-06-14
 ### Changed
 - Implemented FTX rest en websocket apis.
