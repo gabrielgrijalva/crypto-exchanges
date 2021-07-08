@@ -1,7 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [7.3.0] - 2021-06-116
+## [7.4.0] - 2021-07-08
+### Changed
+- Corrected exchanges websocket implementations.
+- Changed kraken rest function.
+
+## [7.3.0] - 2021-06-16
 ### Changed
 - Corrected FTX websocket api.
 - Implemented Deribit rest en websocket apis.
