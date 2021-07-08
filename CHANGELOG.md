@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [7.5.0] - 2021-07-08
+### Changed
+- Corrected project version.
+
 ## [7.4.0] - 2021-07-08
 ### Changed
 - Corrected exchanges websocket implementations.
