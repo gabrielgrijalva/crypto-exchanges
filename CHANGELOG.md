@@ -3,7 +3,9 @@ All notable changes to this project will be documented in this file.
 
 ## [7.6.0] - 2021-08-25
 ### Changed
-- Corrected project version.
+- Implemented bybit futures rest api.
+- Corrected rest function name in bybit implementation.
+- Added new functions to okex rest api.
 
 ## [7.5.0] - 2021-07-08
 ### Changed
