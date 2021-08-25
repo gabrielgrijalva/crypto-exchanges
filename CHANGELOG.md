@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [7.7.0] - 2021-08-25
+### Changed
+- Changed package dependencies versions to fix vulnerabilities.
+
 ## [7.6.0] - 2021-08-25
 ### Changed
 - Implemented bybit futures rest api.
