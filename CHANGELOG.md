@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [7.8.0] - 2021-08-25
+### Changed
+- Added bybit-futures to index export file.
+
 ## [7.7.0] - 2021-08-25
 ### Changed
 - Changed package dependencies versions to fix vulnerabilities.

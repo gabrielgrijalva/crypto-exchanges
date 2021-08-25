@@ -9,6 +9,7 @@ exports.BitflyerWs = require('./lib/src/bitflyer/ws/bitflyer-ws');
 exports.BitflyerRest = require('./lib/src/bitflyer/rest/bitflyer-rest');
 exports.BybitWs = require('./lib/src/bybit/ws/bybit-ws')
 exports.BybitRest = require('./lib/src/bybit/rest/bybit-rest');
+exports.BybitFuturesRest = require('./lib/src/bybit-futures/rest/bybit-rest');
 exports.BitmexWs = require('./lib/src/bitmex/ws/bitmex-ws');
 exports.BitmexRest = require('./lib/src/bitmex/rest/bitmex-rest');
 exports.BitstampWs = require('./lib/src/bitstamp/ws/bitstamp-ws');
