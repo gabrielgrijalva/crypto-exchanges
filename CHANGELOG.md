@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [7.9.0] - 2021-08-31
+### Changed
+- Corrected error in okex.
+
 ## [7.8.0] - 2021-08-25
 ### Changed
 - Added bybit-futures to index export file.
