@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [8.1.0] - 2021-10-31
+### Changed
+- Changed bitmex websocket api endpoint.
+
 ## [8.0.0] - 2021-08-31
 ### Changed
 - Corrected error in okex.
