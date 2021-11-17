@@ -28,3 +28,4 @@ exports.KrakenFuturesRest = require('./lib/src/kraken-futures/rest/kraken-rest')
 exports.OkexRest = require('./lib/src/okex/rest/okex-rest');
 exports.OkexWs = require('./lib/src/okex/ws/okex-ws');
 exports.OneForge = require('./lib/src/one-forge/rest/one-forge-rest');
+exports.PhemexRest = require('./lib/src/phemex/rest/phemex-rest');
