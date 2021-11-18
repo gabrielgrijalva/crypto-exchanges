@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [8.2.0] - 2021-11-17
+### Changed
+- Implemented phemex rest and ws api.
+
 ## [8.1.0] - 2021-10-31
 ### Changed
 - Changed bitmex websocket api endpoint.
