@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [8.3.0] - 2021-11-19
+### Changed
+- Corrected console log error in phemex api.
+
 ## [8.2.0] - 2021-11-17
 ### Changed
 - Implemented phemex rest and ws api.
