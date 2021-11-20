@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [8.4.0] - 2021-11-19
+### Changed
+- Changed phemex function endpoint.
+
 ## [8.3.0] - 2021-11-19
 ### Changed
 - Corrected console log error in phemex api.
