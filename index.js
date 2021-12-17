@@ -30,3 +30,5 @@ exports.OkexWs = require('./lib/src/okex/ws/okex-ws');
 exports.OneForge = require('./lib/src/one-forge/rest/one-forge-rest');
 exports.PhemexWs = require('./lib/src/phemex/ws/phemex-ws');
 exports.PhemexRest = require('./lib/src/phemex/rest/phemex-rest');
+exports.OkexFuturesV5Rest = require('./lib/src/okex-futures-v5/rest/okex-rest');
+exports.OkexFuturesV5Ws = require('./lib/src/okex-futures-v5/ws/okex-ws');
