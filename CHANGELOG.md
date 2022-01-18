@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [8.6.0] - 2021-12-18
+### Changed
+- Changed okex api url.
+
 ## [8.5.0] - 2021-12-17
 ### Changed
 - Implemented okex-futures-v5.
