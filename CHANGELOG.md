@@ -1,7 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [8.6.0] - 2021-12-18
+## [8.7.0] - 2022-01-18
+### Changed
+- Changed and corrected project version.
+
+## [8.6.0] - 2022-01-18
 ### Changed
 - Changed okex api url.
 
