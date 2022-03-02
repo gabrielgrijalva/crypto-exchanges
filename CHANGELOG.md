@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [8.8.0] - 2022-03-02
+### Changed
+- Implemented debugging logs.
+
 ## [8.7.0] - 2022-01-18
 ### Changed
 - Changed and corrected project version.
